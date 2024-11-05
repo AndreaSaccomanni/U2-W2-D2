@@ -5592,7 +5592,7 @@
 <image id="image6341" width="124" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAABCAIAAACTwF32AAAABmJLR0QA/wD/AP+gvaeTAAAAEUlEQVQYlWMs2feKYRTQFwAAETUCHhbbUiIAAAAASUVORK5CYII="/>
 </defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0.722656 L 841.890625 0.722656 L 841.890625 596 L 0 596 L 0 0.722656 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:none;fill-opacity:1;" d="M 0 0.722656 L 841.890625 0.722656 L 841.890625 596 L 0 596 L 0 0.722656 "/>
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <use xlink:href="#image7" transform="matrix(0.240586,0,0,-0.297066,249.348,469.638066)"/>
 </g>
